@@ -1,0 +1,43 @@
+html {
+    background-color: #693c11;
+}
+
+body {
+    color: #d1d1d1;
+}
+
+h1 {
+    text-align: center;
+    background-color: #1b1202;
+    font-size: 50px;
+    padding: 15px 0;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.main-img {
+    width: 750px;
+    display: block;
+    margin: 0 auto;
+    border: 5px solid black;
+}
+
+li {
+    display: block;
+    border: 10px double rgb(49, 28, 11);
+    width: 450px;
+    height: 350px;
+    text-align: center;
+    margin: 50px auto;
+    font-size: 24px;
+}
+
+.food-img {
+    display: block;
+    height: 70%;
+    margin: 30px auto;
+    border: 5px #ff8800 solid;
+}

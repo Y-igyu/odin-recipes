@@ -1,0 +1,37 @@
+
+html {
+    background-color: #693c11;
+    font-size: 20px
+}
+
+body {
+    color: #d1d1d1;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    background-color: #1b1202;
+    font-size: 50px;
+    padding: 15px 0;
+}
+
+h2 {
+    font-size: 40px;
+    margin-top: 60px;
+}
+
+.main-img {
+    width: 550px;
+    display: block;
+    margin: 0 auto;
+    border: 5px solid black;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+div {
+    margin: 50px
+}
